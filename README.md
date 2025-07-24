@@ -10,7 +10,7 @@
 # Output
 
 
-![Screenshot](C:\Users\pesal\Downloads\Employee_Salary_Prediction-main\Employee_Salary_Prediction-main\screenshot2.png)
+<img width="1920" height="985" alt="Image" src="https://github.com/user-attachments/assets/524e4545-3280-41b3-b16a-8024f9831996" />
 
 
 ## 🎓 Internship Details
