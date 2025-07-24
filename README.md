@@ -26,7 +26,7 @@
   
 * **Domain**: Artificial Intelligence & Machine Learning
   
-* **Intern**: J Nandini
+* **Intern**: PESALAVARI PALLAVI
 
 
 # 🔗 Project Links
