@@ -1,4 +1,5 @@
-# Employee_Salary_Prediction using ML Algorithm
+# EMPLOYEE SALARY PREDICTION USING LINEAR REGRESSION
+
 
 
 ## 🌟 Project Title
