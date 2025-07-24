@@ -6,8 +6,7 @@
 ### Employee Salary Prediction System
 
 
-![Screenshot]("C:\Users\pesal\Downloads\Employee_Salary_Prediction-main\Employee_Salary_Prediction-main\screenshot1.png")
-
+<img width="1920" height="991" alt="Image" src="https://github.com/user-attachments/assets/5abf337d-2df9-415e-a1d7-327abece2b2e" />
 # Output
 
 
